@@ -1,6 +1,6 @@
 <div align="center">
 
-![docker](https://medium.com/beakyn/docker-containers-for-development-environment-the-good-the-bad-and-the-ugly-4778c039e3b2)
+![docker](https://miro.medium.com/max/1000/1*E8IgOSkMTpBRs0w0-Zsx2g.gif)
 
 </div>
 
