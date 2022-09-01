@@ -7,5 +7,11 @@
 ### node-docker-dev-prod
 
 > Under heavy development
+> development: @v16
 
-A node docker image from development environment to production. Best practices
+A node docker image from development environment to production. Best practices.
+
+### links
+
+[Node-Docker Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
+[Node-Docker-Hub Image](https://hub.docker.com/_/node)
