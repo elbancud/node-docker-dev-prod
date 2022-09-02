@@ -1,3 +1,6 @@
+# Layers of dockerizing.
+# image -> workdir -> copy -> run -> copy
+
 # Specify the base image with version undefined == latest?
 FROM node:16
 # Set the directory from /app
